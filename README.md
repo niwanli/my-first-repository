@@ -22,3 +22,13 @@ The content is from [http://www.cnblogs.com/jingwhale/archive/2015/01/14/4223657
 
 picture 1
 
+## Code
+`import math`
+
+`a=45`
+
+`b = math.sin(a)`
+
+`print a,b`
+
+
