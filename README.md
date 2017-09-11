@@ -18,4 +18,7 @@ The content is from [http://www.cnblogs.com/jingwhale/archive/2015/01/14/4223657
 		* ajax
 
 ## Insert a picture
-![](F:\GitHub\repository\my-first-repository\picture\01.jpg "the first picture")
+![](https://github.com/niwanli/my-first-repository/raw/master/picture/01.jpg "the first picture")
+
+picture 1
+
